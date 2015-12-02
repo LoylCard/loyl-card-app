@@ -1,0 +1,19 @@
+{
+  "name": "loyl-card-app",
+  "version": "1.0.0",
+  "description": "Dependências:\r \tInstala Git e NodeJS\r \tNode 4.2.2\r \tCordova\r \tIonic Framework v1.1\r \tSDK android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoylCard/loyl-card-app.git"
+  },
+  "author": "loyldevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoylCard/loyl-card-app/issues"
+  },
+  "homepage": "https://github.com/LoylCard/loyl-card-app#readme"
+}
